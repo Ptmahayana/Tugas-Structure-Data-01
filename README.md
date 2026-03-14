@@ -37,3 +37,6 @@ print("List Nama :")
 print(nama)
 #setelah di run maka code ini akan menghilangkan salah satu nama dari dalam list
 ```
+**ANALISIS KOMPLEKSITAS**
+
+
