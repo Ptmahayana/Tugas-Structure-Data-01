@@ -107,3 +107,8 @@ Kompleksitas dari keseluruhan program ini adalah O(n), alasannya adalah karna ke
 ![ss2](Screenshot2026-03-15142206.png)
 
 ![ss3](Screenshot2026-03-15142155.png)
+
+# Refleksi Pembelajaran
+**Apa Yang Saya Pelajari?**
+
+Saya Mempelajari banyak hal pada materi ini, salah satunya adalah array dan list dimana dua hal ini adalah inti utama dari materi pertama 
