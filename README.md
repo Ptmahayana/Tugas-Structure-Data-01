@@ -102,4 +102,4 @@ di dalam kode terakhir ini tidak memiliki perulangan dan data yang di ambil disi
 Kompleksitas dari keseluruhan program ini adalah O(n), alasannya adalah karna keseluruhan program ini bergerak linear.
 
 # Screenshoot Hasil run
-
+![Ss Hasil Run](images/Screenshot 2026-03-15 135540.png)
