@@ -112,4 +112,4 @@ Kompleksitas dari keseluruhan program ini adalah O(n), alasannya adalah karna ke
 **Apa Yang Saya Pelajari?**
 
 Saya Mempelajari banyak hal pada materi ini, salah satunya adalah array dan list dimana dua hal ini adalah inti utama dari materi pertama.
-Saya akhirnya mengetahui bagaimana cara kerja array dan list yang dimana ternyata cara kerja dan pemakaian nya juga berbeda 
+Saya akhirnya mengetahui bagaimana cara kerja array dan list yang dimana ternyata cara kerja dan pemakaian nya juga berbeda.
