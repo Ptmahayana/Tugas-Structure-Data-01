@@ -103,5 +103,7 @@ Kompleksitas dari keseluruhan program ini adalah O(n), alasannya adalah karna ke
 
 # Screenshot Hasil run
 ![Ss1](Screenshot2026-03-15135540.png)
+
 ![ss2](Screenshot2026-03-15142206.png)
+
 ![ss3](Screenshot2026-03-15142155.png)
